@@ -4,7 +4,7 @@
 - Backend: Java-Springboot
 - Database: Mariadb
 - Cloud:AWS:ec2,s3,cloudfront,rds,route-53,certificate manager
-### Summary: {through infra.tf}
+### $${\color{blue}Summary:{through infra.tf}}$$
 - Launch 3 ec2 instances for Frontend, Backend, and Database respectively
 - step1: Set Up Database Instance
 - step2: Set Up Backend
