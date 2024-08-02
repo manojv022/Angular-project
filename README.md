@@ -1,14 +1,15 @@
 # $${\color{red} \textbf{Project}: \textbf{Angular}  \ \textbf{App}}$$
-### Tech Stack
-- Frontend: Angular,Nodejs
-- Backend: Java-Springboot
-- Database: Mariadb
-- Cloud:AWS:ec2,s3,cloudfront,rds,route-53,certificate manager
-### $${\color{blue}Summary:{through infra.tf}}$$
-- Launch 3 ec2 instances for Frontend, Backend, and Database respectively
-- step1: Set Up Database Instance
-- step2: Set Up Backend
-- step3: Set UP Frontend
+- ### `Tech Stack`
+   - Frontend: Angular,Nodejs
+   - Backend: Java-Springboot
+   - Database: Mariadb
+   - Cloud:AWS:ec2,s3,cloudfront,rds,route-53,certificate manager
+- ### `Summary:through infra.tf`
+
+   - Launch 3 ec2 instances for Frontend, Backend, and Database respectively
+   - step1: Set Up Database Instance
+   - step2: Set Up Backend
+   - step3: Set UP Frontend
 
 #### first run the database commands then backend then frontend
 
