@@ -16,6 +16,7 @@
 ![Screenshot 2024-08-02 153032](https://github.com/user-attachments/assets/b766cf59-7c01-417e-a404-fd2758901d20)
 
 
-  ![Screenshot (187)](https://github.com/user-attachments/assets/d84c6b6f-46ff-4e7e-8ef3-9fe078431237)
+ ![Screenshot 2024-08-02 152909](https://github.com/user-attachments/assets/4e985693-4351-4ff3-aaf4-68df8e1a9538)
+
 
    ![Screenshot (194)](https://github.com/user-attachments/assets/5fe5f8e8-7d34-4951-9977-2744a6b9841a)
