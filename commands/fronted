@@ -7,7 +7,7 @@ root@Frontend
     2  bash
     3  apt update
     4  apt install git -y
-    5  git clone https://github.com/abhipraydhoble/Project-Angular-App.git
+    5  git clone https://github.com/manojv022/Angular-project.git
     6  ls
     7  apt install unzip -y
     8  curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
