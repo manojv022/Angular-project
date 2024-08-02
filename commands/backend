@@ -4,7 +4,7 @@
 
 root@Backend
     1  apt install git -y
-    2  git clone https://github.com/abhipraydhoble/Project-Angular-App.git
+    2  git clone https://github.com/manojv022/Angular-project.git
     3  ls
     4  cd Project-Angular-App/
     5  apt update
