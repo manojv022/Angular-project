@@ -11,7 +11,10 @@
 - step3: Set UP Frontend
 
 #### first run the database commands then backend then frontend
-  ![Screenshot (185)](https://github.com/user-attachments/assets/4a9b4bef-5ccd-4944-87bd-344841e776cc)
+
+
+![Screenshot 2024-08-02 153032](https://github.com/user-attachments/assets/b766cf59-7c01-417e-a404-fd2758901d20)
+
 
   ![Screenshot (187)](https://github.com/user-attachments/assets/d84c6b6f-46ff-4e7e-8ef3-9fe078431237)
 
